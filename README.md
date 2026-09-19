@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saranyairine
+- 👋 Hi, I’m @IrineSaranya
 - 👀 I’m interested in learning programming codes
 
 
